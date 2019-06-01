@@ -2,13 +2,11 @@
   "name": "appsap",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/christianAle/ReactProject",
+  "homepage": "https://github.com/christianAle/ReactProject",
   "engines": {
     "node": "10.15.3",
-    "npm": "6.4.1" 
-    
+    "npm": "6.4.1"
   },
-
   "dependencies": {
     "@ishawnwang/withunmounted": "^1.0.1",
     "axios": "^0.18.0",
@@ -22,7 +20,8 @@
     "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.1",
     "react-validation": "^3.0.7",
-    "reactstrap": "^8.0.0"
+    "reactstrap": "^8.0.0",
+    "yarn-install": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

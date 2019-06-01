@@ -12,8 +12,9 @@ import Social from './auth/Social';
 import Phone from './auth/Phone';
 import SignUp from './auth/SignUp';
 
-ReactDOM.render(
-        
+ReactDOM.render([
+       
+      <App/>,  
       <Router history={history}>
           
 
@@ -29,7 +30,7 @@ ReactDOM.render(
       </Router>
           
     ,document.getElementById('root')
-  );
+]);
 
 ///ReactDOM.render(<App />, document.getElementById('root'));
 
