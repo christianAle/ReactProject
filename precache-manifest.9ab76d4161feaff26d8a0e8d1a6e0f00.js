@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4affba3139b66e6526c0944efcc4a73",
+    "revision": "fd8232c425b223e15376c62f08de5477",
     "url": "/christianAle/ReactProject/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/christianAle/ReactProject/static/css/2.9798096d.chunk.css"
   },
   {
-    "revision": "e0f6122e8fdc2a8214e7",
+    "revision": "cd95b4ecedbed8b8a5a8",
     "url": "/christianAle/ReactProject/static/css/main.ba5ea692.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/christianAle/ReactProject/static/js/2.876007cb.chunk.js"
   },
   {
-    "revision": "e0f6122e8fdc2a8214e7",
-    "url": "/christianAle/ReactProject/static/js/main.70784714.chunk.js"
+    "revision": "cd95b4ecedbed8b8a5a8",
+    "url": "/christianAle/ReactProject/static/js/main.97ca71d3.chunk.js"
   },
   {
     "revision": "c2d2dcd2db570237e38b",
