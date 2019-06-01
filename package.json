@@ -2,14 +2,18 @@
   "name": "appsap",
   "version": "0.1.0",
   "private": true,
-  "engines":{
-    "node":"10.15.3",
-    "npm":"6.4.1"
+  "homepage":"https://github.com/christianAle/ReactProject",
+  "engines": {
+    "node": "10.15.3",
+    "npm": "6.4.1" 
+    
   },
+
   "dependencies": {
     "@ishawnwang/withunmounted": "^1.0.1",
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
     "local-storage": "^2.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
@@ -22,6 +26,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
