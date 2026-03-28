@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@ishawnwang/withunmounted": "^1.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
     "local-storage": "^2.0.0",
